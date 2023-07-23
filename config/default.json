@@ -1,0 +1,14 @@
+{
+    "elastic": {
+      "cloudID": "My_deployment:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvOjQ0MyRhY2NhYmY4NmI1ZTA0MzNmYTczNWEwYzE3NTM0MzcxZSRmMDBjMzBkZDc5NmI0MjllYjZmZmI2ZmQ4NDA1YWJiOA==", 
+      "username": "elastic",
+      "password": "QzANqCMxCBMq8psUUigypbWI"
+    },
+    "elastic-cloud": {
+        "cloudID": "My_deployment:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvOjQ0MyRhY2NhYmY4NmI1ZTA0MzNmYTczNWEwYzE3NTM0MzcxZSRmMDBjMzBkZDc5NmI0MjllYjZmZmI2ZmQ4NDA1YWJiOA==", 
+        "username": "elastic",
+        "password": "QzANqCMxCBMq8psUUigypbWI",
+        "apiKey": "a1pVLVlJa0JiYnE4OFJrNlhRRFU6dmF3QUZxQ2tUVlNrcVBYQmFST1RpZw=="
+    }
+    
+}
